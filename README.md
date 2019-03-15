@@ -49,7 +49,7 @@
 
 ## Project
 
-> ## **Surem**
+> ## **[SureM](https://www.surem.co.kr)**
 >
 >> ## [직방](https://www.zigbang.com)
 >>
@@ -155,9 +155,9 @@
 >>   - OracleDB
 >>   ```
 ---
-> ## Superb
+> ## **[Superb](https://superbcorp.com/)**
 >
->> - ### Pianista 서버 개발
+>> - ### [Pianista](https://play.google.com/store/apps/details?id=com.superb.pianista&hl=ko) 서버 개발
 >>
 >>   ```
 >>   게임 컨텐츠 개발 및 유지보수
@@ -182,7 +182,7 @@
 >>   - Amazon Linux
 >>   ```
 > ---
->> - ### 유미의 세포들 사전예약 서버 개발
+>> - ### [유미의 세포들 사전예약 홈페이지](https://yumiscells.superbcorp.com/) 서버 개발
 >>
 >>   ```
 >>   유미의 세포들 사전예약을 처리하는 서버
@@ -192,7 +192,7 @@
 >>   - MySQL
 >>   ```
 > ---
->> - ### 유미의 세포들 서버 개발
+>> - ### [유미의 세포들](https://play.google.com/store/apps/details?id=com.superb.yumi&hl=ko) 서버 개발
 >>
 >>   ```
 >>   게임 컨텐츠 개발 및 유지보수
@@ -204,7 +204,7 @@
 >>   - Amazon Linux
 >>   ```
 > ---
->> - ### 수퍼브 홈페이지 서버 개발
+>> - ### [수퍼브 홈페이지](https://superbcorp.com/) 서버 개발
 >>
 >>   ```
 >>   이메일 구독, 애플 맵 토큰 발급 등을 처리하는 서버
