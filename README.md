@@ -64,8 +64,6 @@
 >>   - API Gateway, Lambda, SQS
 >>   ```
 >>
->>   // TODO: merge
->>
 >> ### **외부 API 개발**
 >>
 >>   ```
