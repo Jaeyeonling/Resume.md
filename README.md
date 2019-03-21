@@ -115,7 +115,7 @@
 > >
 > > - 설명
 > >
-> >   Kakao API로 들어온 Http를 TCP로 ChatScript와 릴레이하는 서버
+> >   Kakao API로 들어온 HTTP를 TCP로 ChatScript와 릴레이하는 서버
 > >   Chatscript 환경 구축
 > >
 > >   Kakao <-> API Server <-> ChatScript
