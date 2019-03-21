@@ -10,7 +10,7 @@
 
 - [Github](https://github.com/jaeyeonling)
 
-- [Personal Page](https://http://jaeyeonling.github.io)
+- [Personal Page](https://jaeyeonling.github.io)
 
   
 
